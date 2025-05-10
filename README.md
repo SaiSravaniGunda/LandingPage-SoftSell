@@ -10,7 +10,7 @@ A modern landing page for a software license resale marketplace, built with Reac
 - Testimonials section
 - Contact form
 - Light/Dark mode toggle
-- Chatbot with OpenAI integration (simulated)
+- Chatbot 
 
 ## Tech Stack
 
