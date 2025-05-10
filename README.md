@@ -40,14 +40,5 @@ To create a production build:
 npm run build
 ```
 
-## Environment Variables
 
-To enable the OpenAI chatbot functionality, create a `.env` file in the root directory and add your OpenAI API key:
 
-```
-VITE_OPENAI_API_KEY=your_api_key_here
-```
-
-## License
-
-MIT
