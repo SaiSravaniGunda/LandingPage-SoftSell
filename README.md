@@ -17,7 +17,7 @@ A modern landing page for a software license resale marketplace, built with Reac
 - React + Vite
 - Tailwind CSS
 - Framer Motion
-- OpenAI API (for chat)
+
 
 ## Getting Started
 
